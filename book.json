@@ -1,1 +1,15 @@
-{ "title": "极橙儿童齿科-行为管理手册" }
+{
+    "title": "极橙儿童齿科-行为管理手册", 
+    "plugins": ["favicon"],
+    "pluginsConfig": {
+        "favicon":{
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/OrangeDental-64x64.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/OrangeDental-120x120.png",
+                "180x180": "assets/images/OrangeDental-180x180.png"
+            }
+        }
+    }
+}
